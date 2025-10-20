@@ -1,0 +1,5 @@
+{
+  "name": "Static QR Menu Generator",
+  "description": "Generate a permanent QR code for your restaurant's online menu. Simply enter the URL to your menu, and we'll create a QR code. You can update your menu anytime without needing to change the QR code.",
+  "requestFramePermissions": []
+}
